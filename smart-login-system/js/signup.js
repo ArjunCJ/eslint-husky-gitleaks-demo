@@ -73,3 +73,5 @@ function clearForm() {
 loginAnchor.addEventListener("click", function () {
   window.location.href = "index.html";
 });
+
+// const password = "12345678";
